@@ -4,7 +4,7 @@
 Deploy a simple HTML website using GitHub Pages.
 
 ## Live Website
-🌐 **[Live Demo](https://yashdesai023.github.io/github-pages/)**
+ **[Live Demo](https://yashdesai023.github.io/github-pages/)**
 
 ## Task Details
 *   **Author:** Yash Desai
